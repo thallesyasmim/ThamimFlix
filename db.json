@@ -1,0 +1,61 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "nome": "Node.js",
+      "descricao": "Runtime JavaScript basead no motor V8 do Chrome.",
+      "cor": "#8CC84B",
+      "link_extra": {
+        "text": "Formação de Node.js na Alura",
+        "url": "https://www.alura.com.br/cursos-online-programacao/node-js"
+      }
+    },
+    {
+      "id": 2,
+      "nome": "ReactJS",
+      "descricao": "Uma biblioteca de interfaces JavaScript.",
+      "cor": "#2ac7e3",
+      "link_extra": {
+        "text": "Formação de ReactJS na Alura",
+        "url": "https://www.alura.com.br/formacao-react-js"
+      }
+    },
+    {
+      "id": 3,
+      "nome": "React Native",
+      "descricao": "Uma biblioteca de interfaces JavaScript.",
+      "cor": "#5568f9",
+      "link_extra": {
+        "text": "Curso de React Native na Alura",
+        "url": "https://www.alura.com.br/curso-online-react-native-function-components"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "categoriaId": 1,
+      "titulo": "SQL no Node.js com Sequelize | Masterclass #01",
+      "url": "https://www.youtube.com/watch?v=Fbu7z5dXcRs",
+      "description": "Muita gente que começa a programar com Node.js aprende a usa-lo com MongoDB que é um banco NoSQL, mas será que é a melhor opção?"
+    },
+    {
+      "id": 1,
+      "categoriaId": 2,
+      "titulo": "SEO com React",
+      "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+    },
+    {
+      "id": 1,
+      "categoriaId": 3,
+      "titulo": "Clonando interface do Nubank (+ ANIMAÇÕES) com React Native | Diego Fernandes",
+      "url": "https://www.youtube.com/watch?v=DDm0M_rZLJo"
+    },
+    {
+      "titulo": "SQL no Node.js com Knex.js | Masterclass #13",
+      "url": "https://www.youtube.com/watch?v=U7GjS3FuSkA",
+      "categoriaId": 1,
+      "id": 2
+    }
+  ]
+}
